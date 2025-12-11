@@ -1,0 +1,51 @@
+body {
+        display: flex;
+        background-color: #f0f0f0;
+        font-family: sans-serif;
+        margin: 0;
+    }
+
+        h1{
+            font-size: 50px;
+        }
+
+        .tudo {
+            width: 68,96px;
+            background-image: linear-gradient(#fff, #f5cdf7);
+            margin: 0 auto;
+        }
+        header {
+            background-color: #540f4a;
+            color: white;
+            padding: 1.4%;
+            text-align: center;
+        }
+        .texto-ruim {
+            color: #540f4a;
+        }
+        .botoes {
+            padding: 50px;
+            text-align: center;
+        }
+
+        #meuBotao {
+            padding: 20px;
+            background: rgb(3, 42, 157);
+            color: white;
+        }
+
+        footer{
+            background: #540f4a;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+
+        .apresentacao > img {
+            width: 50.7%;
+        }
+
+        .apresentacao {
+            padding: 40px;
+            text-align: center;
+        }
